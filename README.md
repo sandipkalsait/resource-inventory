@@ -116,7 +116,7 @@ Running the Application
 To run the application, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/inventory-service.git
+   git clone https://github.com/sandipkalsait/inventory-service.git
    cd inventory-service
 
 2. Build the project using Maven:
@@ -135,7 +135,6 @@ Example curl request to get all inventory items:
 curl -u user:password http://localhost:8080/api/inventory
 
 License
-This project is licensed under the MIT License.
-"""
+This project is licensed under the MIT License.""
 
 
